@@ -1,0 +1,26 @@
+{
+  "name": "turkish-deasciifier",
+  "version": "1.0.0",
+  "description": "Turkish text deasciifier and asciifier JavaScript library. Deasciifier code directly converted by Mustafa Emre Acer from Dr. Deniz Yuret's Emacs Turkish Extension: http://www.denizyuret.com/turkish Also see https://github.com/f/deasciifier",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ustunozgur/turkish-deasciifier.git"
+  },
+  "keywords": [
+    "deasciifier",
+    "turkish",
+    "turkce"
+  ],
+  "author": "Ustun Ozgur <ustun@ustunozgur.com> (https://github.com/ustun)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ustunozgur/turkish-deasciifier/issues"
+  },
+  "homepage": "https://github.com/ustunozgur/turkish-deasciifier#readme"
+}
